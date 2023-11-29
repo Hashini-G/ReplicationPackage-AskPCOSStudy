@@ -1,8 +1,8 @@
-# ReplicationPackage
+# Supplementary Information Package
 # Enablers and Barriers of Empathy in Software Developer and User Interactions: A Mixed Methods Case Study
 # Authors: Hashini Gunatilake, John Grundy, Rashina Hoda, Ingo Mueller
 
-This is the replication package of the ACM Transactions on Software Engineering and Methodology paper titled "Enablers and Barriers of Empathy in Software Developer and User Interactions: A Mixed Methods Case Study" authored by Hashini Gunatilake, John Grundy, Rashina Hoda, and Ingo Mueller.
+This is the supplementary information package of the ACM Transactions on Software Engineering and Methodology paper titled "Enablers and Barriers of Empathy in Software Developer and User Interactions: A Mixed Methods Case Study" authored by Hashini Gunatilake, John Grundy, Rashina Hoda, and Ingo Mueller.
 
 The study employed a mixed-methods approach, using Socio-Technical Grounded Theory for data analysis (STGT4DA) and Statistical Analysis of the empathy test: Questionnaire of Cognitive and Affective Empathy.
 
